@@ -1,0 +1,257 @@
+{
+  "main": {
+    "id": "b9d414950fe90599",
+    "type": "split",
+    "children": [
+      {
+        "id": "b4207dafd16c3253",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "817a7390e4c225b1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Readme.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "feb3134657681691",
+    "type": "split",
+    "children": [
+      {
+        "id": "125cc3c6d6379940",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ab4c5bfe90fdc8e9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b6125b55737deeb7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#测试2",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7903f0dd0a757e90",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "cb7e9eab92e8018c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 247.5
+  },
+  "right": {
+    "id": "f5495605b76e9734",
+    "type": "split",
+    "children": [
+      {
+        "id": "004a1ee1c674ba64",
+        "type": "tabs",
+        "dimension": 41.767554479418884,
+        "children": [
+          {
+            "id": "a62a52fa60cec7f8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Readme.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1453ea00559798d3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Readme.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "400fdf961b20352b",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "23a72be11d37a898",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_nodes",
+              "state": {}
+            }
+          },
+          {
+            "id": "ab46f4dc66a41b9e",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_style",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "006da79d9b8b9042",
+        "type": "tabs",
+        "dimension": 58.232445520581116,
+        "children": [
+          {
+            "id": "f8de6a03ad423aa0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "3499e99c80439762",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "3addbfb05603bb77",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Readme.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 302.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "canvas:新建白板": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "audio-recorder:开始/结束录音": false,
+      "workspaces:管理工作区布局": false,
+      "publish:发布更改": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-booknote-plugin:书库": false,
+      "juggl:Juggl global graph": false,
+      "3d-graph:3D Graph": false,
+      "obsidian-memos:Memos": false
+    }
+  },
+  "active": "817a7390e4c225b1",
+  "lastOpenFiles": [
+    "Attachment/Pasted image 20240330213638.png",
+    "data/00目录/冻融滑坡特征提取方法.md",
+    "Readme.md",
+    "data/00目录/冻融滑坡特征.md",
+    "data/00目录/冰湖溃决特征相关数据.md",
+    "data/00目录/冰湖溃决特征提取方法.md",
+    "data/00目录/冰川跃动特征提取相关数据.md",
+    "data/00目录/冰川跃动特征提取方法.md",
+    "data/00目录/冰川跃动特征.md",
+    "data/00目录/冻融滑坡特征相关数据.md",
+    "data/00目录/冰湖溃决特征.md",
+    "Attachment/R-C.jpg",
+    "data/08冰湖溃决特征/与其他湖的水力联系.md",
+    "data/08冰湖溃决特征/输入·输出水量.md",
+    "data/08冰湖溃决特征/气象要素.md",
+    "data/08冰湖溃决特征/集水面积.md",
+    "data/08冰湖溃决特征/湖面温度.md",
+    "data/08冰湖溃决特征/关联冰川及其变化.md",
+    "data/08冰湖溃决特征/冰湖水位及其变化.md",
+    "data/08冰湖溃决特征/冰湖面积及其变化.md",
+    "data/08冰湖溃决特征/冰湖溃决洪水过程.md",
+    "data/08冰湖溃决特征/冰湖库容、储水量及其变化.md",
+    "data/08冰湖溃决特征/冰湖湖底地形.md",
+    "data/08冰湖溃决特征/冰湖坝体厚度和高度.md",
+    "data/04冰川跃动特征相关数据/高程影像.md",
+    "Attachment/R-C.jpg.crdownload",
+    "Attachment",
+    "新建文件夹",
+    "data/10冰湖溃决特征相关数据/时序遥感图像.md",
+    "data/09冰湖溃决特征提取方法/库容-面积计算公式.md",
+    "data/10冰湖溃决特征相关数据",
+    "data/09冰湖溃决特征提取方法",
+    "data/08冰湖溃决特征",
+    "data/07冻融滑坡特征相关数据",
+    "data/06冻融滑坡特征提取方法",
+    "data/00目录/未命名",
+    "data/05冻融滑坡特征",
+    "未命名.canvas",
+    "Attachment/Pasted image 20240325103946.png",
+    "Attachment/Pasted image 20230507132048.png",
+    "Attachment/Pasted image 20230507150541.png",
+    "Attachment/Pasted image 20230428164744.png",
+    "Attachment/Pasted image 20230428164652.png",
+    "Attachment/Pasted image 20230304191113.png",
+    "Attachment/Pasted image 20230516192133.png",
+    "Attachment/Pasted image 20230516192003.png",
+    "Attachment/Pasted image 20230516192046.png"
+  ]
+}
