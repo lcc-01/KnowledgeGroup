@@ -11,13 +11,8 @@
             "id": "817a7390e4c225b1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Readme.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -95,7 +90,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Readme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -107,7 +101,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Readme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,9 +167,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Readme.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -206,43 +197,45 @@
   },
   "active": "817a7390e4c225b1",
   "lastOpenFiles": [
-    "Attachment/Pasted image 20240330213638.png",
-    "data/00目录/冻融滑坡特征提取方法.md",
     "Readme.md",
-    "data/00目录/冻融滑坡特征.md",
-    "data/00目录/冰湖溃决特征相关数据.md",
-    "data/00目录/冰湖溃决特征提取方法.md",
-    "data/00目录/冰川跃动特征提取相关数据.md",
-    "data/00目录/冰川跃动特征提取方法.md",
-    "data/00目录/冰川跃动特征.md",
-    "data/00目录/冻融滑坡特征相关数据.md",
-    "data/00目录/冰湖溃决特征.md",
+    "data/研究对象/冰川/唯格勒当雄冰川.md",
+    "data/研究对象/冰川/克亚吉尔冰川.md",
+    "data/相关数据/微波影像.md",
+    "data/研究对象/冰川",
+    "data/研究对象/冰山.md",
+    "data/相关数据/微波干涉影像.md",
+    "data/相关数据/全色影像.md",
+    "data/相关数据/气象数据.md",
+    "data/相关数据/光学立体影像.md",
+    "data/相关数据/高程影像.md",
+    "data/相关数据/多光谱影像.md",
+    "data/特征/冻融滑坡特征/滑坡体土壤含水率.md",
+    "data/特征/冻融滑坡特征/滑坡体几何形态.md",
+    "data/特征/冻融滑坡特征/滑坡体地下形变.md",
+    "data/特征/冻融滑坡特征/滑坡体地表形变.md",
+    "data/特征/冰湖溃决特征/冰湖坝体厚度和高度.md",
+    "data/特征/冰湖溃决特征/冰湖面积及其变化.md",
+    "data/特征/冰湖溃决特征/冰湖湖底地形.md",
+    "data/特征/冰川跃动特征/光谱特征.md",
+    "data/特征/冰川跃动特征/冰川渗透水量.md",
+    "data/特征/冰川跃动特征/冰川融水和冰碛物.md",
+    "data/特征/冰川跃动特征/冰川前缘位置.md",
+    "data/特征/冰川跃动特征/冰川面积和厚度.md",
+    "data/特征/冰川跃动特征/冰川湖.md",
+    "data/特征/冰川跃动特征/冰川表面流速.md",
+    "data/特征/冰川跃动特征/冰川表面径流.md",
+    "data/研究对象/冻土",
+    "data/研究对象/冰湖",
+    "data/特征/冻融滑坡特征",
+    "data/特征/冰湖溃决特征",
+    "data/特征/冰川跃动特征",
+    "data/数据集",
+    "data/研究对象",
+    "data/未命名.canvas",
+    "data/相关数据",
+    "data/特征",
+    "Attachment/Pasted image 20240330213638.png",
     "Attachment/R-C.jpg",
-    "data/08冰湖溃决特征/与其他湖的水力联系.md",
-    "data/08冰湖溃决特征/输入·输出水量.md",
-    "data/08冰湖溃决特征/气象要素.md",
-    "data/08冰湖溃决特征/集水面积.md",
-    "data/08冰湖溃决特征/湖面温度.md",
-    "data/08冰湖溃决特征/关联冰川及其变化.md",
-    "data/08冰湖溃决特征/冰湖水位及其变化.md",
-    "data/08冰湖溃决特征/冰湖面积及其变化.md",
-    "data/08冰湖溃决特征/冰湖溃决洪水过程.md",
-    "data/08冰湖溃决特征/冰湖库容、储水量及其变化.md",
-    "data/08冰湖溃决特征/冰湖湖底地形.md",
-    "data/08冰湖溃决特征/冰湖坝体厚度和高度.md",
-    "data/04冰川跃动特征相关数据/高程影像.md",
-    "Attachment/R-C.jpg.crdownload",
-    "Attachment",
-    "新建文件夹",
-    "data/10冰湖溃决特征相关数据/时序遥感图像.md",
-    "data/09冰湖溃决特征提取方法/库容-面积计算公式.md",
-    "data/10冰湖溃决特征相关数据",
-    "data/09冰湖溃决特征提取方法",
-    "data/08冰湖溃决特征",
-    "data/07冻融滑坡特征相关数据",
-    "data/06冻融滑坡特征提取方法",
-    "data/00目录/未命名",
-    "data/05冻融滑坡特征",
     "未命名.canvas",
     "Attachment/Pasted image 20240325103946.png",
     "Attachment/Pasted image 20230507132048.png",
@@ -251,7 +244,6 @@
     "Attachment/Pasted image 20230428164652.png",
     "Attachment/Pasted image 20230304191113.png",
     "Attachment/Pasted image 20230516192133.png",
-    "Attachment/Pasted image 20230516192003.png",
-    "Attachment/Pasted image 20230516192046.png"
+    "Attachment/Pasted image 20230516192003.png"
   ]
 }
